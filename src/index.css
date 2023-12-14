@@ -1,0 +1,16 @@
+.active {
+  background: #333;
+  color: white;
+}
+
+.btn {
+  color: white;
+}
+
+.btn-primary {
+  background: blue;
+}
+
+.btn-secondary {
+  background: indigo;
+}
